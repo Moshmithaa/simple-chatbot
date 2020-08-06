@@ -2,6 +2,7 @@ var arr = {
     "Hi" : "Hello there!",
     "hi" : "hey user!",
     "hello" : "hello there!",
+    "hey" : "what's up?!",
     "what's up?" : "nothing much.",
     "Hello" : "Hi",
     "How are you?" : "Fine and you?",
