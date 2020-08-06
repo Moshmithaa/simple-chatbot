@@ -1,0 +1,21 @@
+.chatbot {
+    position: relative;
+    border: 2px solid black;
+    width: 350px;
+    background-color: lightblue;
+    margin: auto;
+}
+
+#inputBox {
+    position: absolute;
+    bottom: 0;
+    width: 350px;
+    background-color: lightgray;
+    border: 1px solid lightblue;
+}
+
+#user {
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: larger;
+}
